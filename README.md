@@ -21,7 +21,7 @@ pytorch-chinese-medicine-classifier/
 
 1.  **克隆仓库** (如果尚未克隆)
     ```bash
-    # git clone <repository-url>
+    # git clone https://github.com/LERFOE/-pytorch-CNN-
     # cd pytorch-chinese-medicine-classifier
     ```
 
